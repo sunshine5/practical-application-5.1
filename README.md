@@ -59,3 +59,7 @@ Drivers who accepted have following characteristics.
 * Among the drivers who accepted following age groups were part of the higher proportion in the overall age distribution - 31,21 and 26, where as gender of the drivers is not affecting coupon acceptance rate significantly.
 * Among the drivers who accepted 81% were opposite direction
 * The top 7 occupations were - Computer & Mathematical, Unemployed, Student, Sales & Related, Office & Administrative Support, Education&Training&Library, and Management
+
+#### Detailed analysis is captured in the jupyter notebook:
+##### https://github.com/sunshine5/practical-application-5.1/blob/main/prompt.ipynb
+
